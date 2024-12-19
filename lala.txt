@@ -1,6 +1,6 @@
-A
-B
-C
-D
-E
-F
+AB
+BS
+CD
+DQ
+ES
+FF
