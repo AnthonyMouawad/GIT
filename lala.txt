@@ -1,6 +1,7 @@
-AB
-BS
-CD
+ABA
+BSB
+CDC
 DQ
 ES
 FF
+
